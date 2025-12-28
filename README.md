@@ -1,6 +1,4 @@
-
-
-**# Student Management API (Flask) – Learning Project
+# Student Management API (Flask) – Learning Project
 
 This is a **learning project** to practice building a backend REST API using Python and Flask.  
 The project implements CRUD operations for student records using SQLite.  
@@ -23,4 +21,3 @@ This project was built as a **practice project** to learn how backend APIs work,
 ```bash
 pip install -r requirements.txt
 python app.py
-
